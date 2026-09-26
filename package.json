@@ -1,0 +1,8 @@
+{
+  "name": "resilient-queue-worker",
+  "private": true,
+  "version": "1.4.0",
+  "scripts": {
+    "test": "git -C bare status --short"
+  }
+}
